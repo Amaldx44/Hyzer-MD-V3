@@ -1,4 +1,5 @@
 <div align="center"
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amaldx44/Hyzer-MD-V3)
 
 <img src="https://telegra.ph/file/677780c08cc83059ac934.jpg" alt="Hyzer Md-V3" width="300" />
@@ -22,6 +23,7 @@
 </p>
 
 # Ambil Session Disini
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amaldx44/Hyzer-MD-V3)
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit) 
 > Untuk Tutorialnya Liat Dan Subscribe [ Here ](https://youtu.be/7wfSvv4AHsQ) 
@@ -39,6 +41,7 @@ WhatsApp Bot Multi Device
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Amaldx44/Hyzer-MD-V3)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amaldx44/Hyzer-MD-V3)
 
 # Heroku Buildpack
 
