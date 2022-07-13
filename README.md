@@ -1,4 +1,6 @@
-<div align="center">
+<div align="center"
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amaldx44/Hyzer-MD-V3)
+
 <img src="https://telegra.ph/file/677780c08cc83059ac934.jpg" alt="Hyzer Md-V3" width="300" />
 
 </p>
